@@ -27,4 +27,4 @@ const execute = (timer: Stopwatch, num: number): void => {
 
 const stopwatch = new Stopwatch()
 
-execute(stopwatch, 10000)
+execute(stopwatch, 100000)
