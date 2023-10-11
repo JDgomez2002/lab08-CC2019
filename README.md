@@ -27,4 +27,7 @@ El caso promedio implica una situación en la cual el elemento buscado tiene la 
 
 El peor de los casos se presenta cuando el elemento que estamos buscando se encuentra en la última posición del arreglo o no está presente en absoluto. En este caso, debemos recorrer todo el arreglo hasta el final para confirmar que el elemento no está presente. El tiempo de ejecución en el peor caso se representa como O(n), donde n representa el tamaño del arreglo. Esto significa que el tiempo de ejecución aumenta de manera proporcional al tamaño del arreglo en el peor escenario.
 
-
+## Ejercicio 5
+![](https://github.com/JDgomez2002/lab08-CC2019/blob/main/assets/Ex5a.jpg?raw=true)
+![](https://github.com/JDgomez2002/lab08-CC2019/blob/main/assets/Ex5b.jpg?raw=true)
+![](https://github.com/JDgomez2002/lab08-CC2019/blob/main/assets/Ex5c.jpg?raw=true)
