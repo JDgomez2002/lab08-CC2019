@@ -1,4 +1,5 @@
 # Laboratorio 08
+https://youtu.be/3feo47BDPts
 ## Ejercicio 1
 El algoritmo tiene una complejidad hibrida debido a los tres bucles anidados que tiene. El primer bucle se ejecuta n/2 veces, el segundo bucle se ejecuta n - n/2 veces y el tercer bucle se ejecuta log2(n) veces debido a que esperara a que j sea menor o igual a n aproximado hacia abajo de n /2. Por lo tanto, la complejidad teorica es O(n/2 * (n - n/2) * log2(n)). Esto se puede simplificar en O(n^3) debido a que aun que el bucle while mas anidado es de tipo log(n), esta es consumida como O(n) por los demas bucles de tipo O(n) que lo encapsulan. En la grafica se puede ver que termina siendo lineal la relacion O(n^3).
 
